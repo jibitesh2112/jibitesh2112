@@ -51,8 +51,9 @@
 <a href="https://github.com/jibitesh2112/jibitesh2112/jibitesh2112">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jibitesh2112&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+ <p><img align="center" src="https://streak-stats.demolab.com?user=jibitesh2112&theme=dark" alt="jibitesh2112" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibitesh2112&show_icons=true&locale=en&layout=compact" alt="jibitesh2112" /></p>
  
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
